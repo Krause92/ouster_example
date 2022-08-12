@@ -2,8 +2,19 @@
 Changelog
 =========
 
+[20220608]
+==========
+
+ouster_client
+-------------
+* change single return parsing for FW 2.3.1
+
+python
+------
+* single return parsing for FW 2.3.1 reflects change from ouster_client
+
 [20220504]
-===========
+==========
 
 * update supported vcpkg tag to 2022.02.23
 * update to manylinux2014 for x64 linux ``ouster-sdk`` wheels
